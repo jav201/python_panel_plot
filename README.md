@@ -1,3 +1,3 @@
 # Python Panel application
 
-Application to generate and customize plots.
+Application to generate and customize plots using matplotlib.
